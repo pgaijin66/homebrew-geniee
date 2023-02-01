@@ -5,10 +5,10 @@ cask "geniee" do
   version "0.1.1"
 
   on_intel do
-    sha256 "e28c9095898925f5e32d7119e4b06f910fd624146c5ce7b94b81397c3e43f24f"
+    sha256 "34f1a3d12cb9d2877367743b8171f56f8ce6e5e8ec21a7b45210e45b3e40a711"
   end
   on_arm do
-    sha256 "c9a6e3061dd4f9bf19933176bba09a23703fc550ec56801808b8630829ed45bc"
+    sha256 "108c87119d479e83c2012f15d0fabd121490167e55f3356247bcf538ae633850"
   end
 
   url "https://github.com/geniee-ai/geniee-cli/releases/download/v#{version}/geniee_#{version}_darwin_#{arch}"
