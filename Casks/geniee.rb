@@ -2,7 +2,7 @@
 cask "geniee" do
   arch arm: "arm64", intel: "amd64"
 
-  version "0.1.1"
+  version "0.1.2"
 
   on_intel do
     sha256 "34f1a3d12cb9d2877367743b8171f56f8ce6e5e8ec21a7b45210e45b3e40a711"
